@@ -1,10 +1,10 @@
-📊 # **A/B Testing Project**
+📊 **A/B Testing Project**
 
-📝 ## **Overview**
+📝 **Overview**
 
 This repository contains an A/B Testing Project, where we analyze the impact of marketing campaigns on sales performance using A/B testing methodologies. The project explores the effects of store age, market size, and campaign effectiveness on revenue.
 
-📌 ## **Key Objectives**
+📌 **Key Objectives**
 
 - Perform exploratory data analysis (EDA) to understand sales trends across different store categories.
 
@@ -14,7 +14,7 @@ This repository contains an A/B Testing Project, where we analyze the impact of 
 
 - Visualize key insights using Matplotlib & Seaborn.
 
-🛠️ ## **Technologies Used**
+🛠️ **Technologies Used**
 
 - Python 🐍
 
@@ -26,7 +26,7 @@ This repository contains an A/B Testing Project, where we analyze the impact of 
 
 - Scipy & Statsmodels for statistical hypothesis testing
 
-📊 ## **Data Insights & Visualizations**
+📊 **Data Insights & Visualizations**
 
 The project includes bar charts, histograms, and other visualizations to illustrate trends in the dataset. Below are key insights:
 
@@ -40,7 +40,7 @@ The project includes bar charts, histograms, and other visualizations to illustr
 
 - Older stores with unexpectedly high sales (e.g., 9, 12, 19, 22 years old) warrant further analysis.
 
-📈 ## **Statistical Analysis**
+📈 **Statistical Analysis**
 
 The notebook contains statistical methods such as:
 
